@@ -9,9 +9,6 @@ María Lazaleth Encalada Hinojosa
 Biología, Pontificia Universidad Católica del Ecuador
 
 
-## Autor
-María Lazaleth Encalada Hinojosa
-Biología, Pontificia Universidad Católica del Ecuador
 
 ## Antecedentes
 El género Drosophila es un modelo clave en biología evolutiva y genética, con una amplia diversidad en regiones tropicales como el Neotrópico, que aún se encuentra submuestreada y con muchas especies por describir.
