@@ -29,7 +29,7 @@ El análisis de las relaciones filogenéticas en *Macropodidae* utilizando COI p
 - Explorar la historia biogeográfica de la radiación marsupial australiana.
 
 > “La integración de datos moleculares y morfológicos ha sido esencial para comprender la evolución de los marsupiales en Australasia” (Springer et al., 1997).
- ![alt text] (https://static.vecteezy.com/system/resources/previews/048/166/614/non_2x/baby-kangaroo-standing-on-white-background-free-photo.jpg)
+ ![alt text](https://static.vecteezy.com/system/resources/previews/048/166/614/non_2x/baby-kangaroo-standing-on-white-background-free-photo.jpg)
 
 ---
 
