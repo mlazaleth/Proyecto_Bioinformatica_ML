@@ -29,6 +29,7 @@ El análisis de las relaciones filogenéticas en *Macropodidae* utilizando COI p
 - Explorar la historia biogeográfica de la radiación marsupial australiana.
 
 > “La integración de datos moleculares y morfológicos ha sido esencial para comprender la evolución de los marsupiales en Australasia” (Springer et al., 1997).
+ ![alt text] (https://static.vecteezy.com/system/resources/previews/048/166/614/non_2x/baby-kangaroo-standing-on-white-background-free-photo.jpg)
 
 ---
 
@@ -64,10 +65,10 @@ La inferencia filogenética se llevó a cabo con **IQ-TREE v2.2.2.6** (Minh et a
 bash
 iqtree2 -s archivo_alineado.fasta -m MFP -bb 1000 -alrt 1000 -n
 
-### M-* Resultados
+### Resultados
 Ver imagen en la carpeta de Results 
 
-### M-* Conclusiones 
+### Conclusiones 
 
 A partir del análisis filogenético con el gen mitocondrial COI, se obtuvo un árbol con agrupaciones bien definidas dentro de la familia *Macropodidae*. El árbol muestra una clara separación entre los géneros analizados, destacando la **monofilia del género *Petrogale***, con altos valores de soporte en la mayoría de sus nodos internos (bootstrap >85% y aLRT >80 en varios casos).
 
@@ -78,7 +79,7 @@ Los resultados también revelan **afinidades filogenéticas esperadas**, como la
 En términos generales, el uso del gen **COI** permitió obtener un árbol con **resolución filogenética confiable**, sustentado por análisis estadísticos robustos (bootstrap ultrarrápido y aLRT), lo cual respalda su utilidad para estudios sistemáticos en *Macropodidae*.
 
 
-### M-, Bibliografía 
+### Bibliografía 
 Avise, J. C., Arnold, J., Ball, R. M., Bermingham, E., Lamb, T., Neigel, J. E., ... & Saunders, N. C. (1987).
 Intraspecific phylogeography: the mitochondrial DNA bridge between population genetics and systematics.
 Annual Review of Ecology and Systematics, 18, 489–522.
