@@ -61,13 +61,13 @@ El alineamiento múltiple se realizó con **MUSCLE v3.8.31** (Edgar, 2004), veri
 #### 3. Análisis filogenético
 La inferencia filogenética se llevó a cabo con **IQ-TREE v2.2.2.6** (Minh et al., 2020), empleando el mejor modelo evolutivo determinado automáticamente (`-m MFP`). Se utilizó soporte estadístico mediante:
 
-```bash
+bash
 iqtree2 -s archivo_alineado.fasta -m MFP -bb 1000 -alrt 1000 -n
 
-### M-, Resultados
+### M-* Resultados
 Ver imagen en la carpeta de Results 
 
-### M-, Conclusiones 
+### M-* Conclusiones 
 
 A partir del análisis filogenético con el gen mitocondrial COI, se obtuvo un árbol con agrupaciones bien definidas dentro de la familia *Macropodidae*. El árbol muestra una clara separación entre los géneros analizados, destacando la **monofilia del género *Petrogale***, con altos valores de soporte en la mayoría de sus nodos internos (bootstrap >85% y aLRT >80 en varios casos).
 
