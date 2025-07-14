@@ -64,10 +64,10 @@ La inferencia filogenética se llevó a cabo con **IQ-TREE v2.2.2.6** (Minh et a
 ```bash
 iqtree2 -s archivo_alineado.fasta -m MFP -bb 1000 -alrt 1000 -n
 
-### 4.Resultados
+### M-, Resultados
 Ver imagen en la carpeta de Results 
 
-### 5. Conclusiones 
+### M-, Conclusiones 
 
 A partir del análisis filogenético con el gen mitocondrial COI, se obtuvo un árbol con agrupaciones bien definidas dentro de la familia *Macropodidae*. El árbol muestra una clara separación entre los géneros analizados, destacando la **monofilia del género *Petrogale***, con altos valores de soporte en la mayoría de sus nodos internos (bootstrap >85% y aLRT >80 en varios casos).
 
@@ -78,7 +78,7 @@ Los resultados también revelan **afinidades filogenéticas esperadas**, como la
 En términos generales, el uso del gen **COI** permitió obtener un árbol con **resolución filogenética confiable**, sustentado por análisis estadísticos robustos (bootstrap ultrarrápido y aLRT), lo cual respalda su utilidad para estudios sistemáticos en *Macropodidae*.
 
 
-### 6. Bibliografía 
+### M-, Bibliografía 
 Avise, J. C., Arnold, J., Ball, R. M., Bermingham, E., Lamb, T., Neigel, J. E., ... & Saunders, N. C. (1987).
 Intraspecific phylogeography: the mitochondrial DNA bridge between population genetics and systematics.
 Annual Review of Ecology and Systematics, 18, 489–522.
